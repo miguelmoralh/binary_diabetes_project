@@ -1,2 +1,2 @@
 # binary_diabetes_project
-Project done during the second year of the degree Artificial Inteligence in the subject of Machine Learning. The project consists of a binary classification model in order to classify patients between diabetic and non-diabetic. 
+The project consists of a binary classification model in order to classify patients between diabetic and non-diabetic. The idea of the project is to try all the different classification methods (Boosting methods, ensambles, SVM...) learned at the Machine Learning subject in order to see how they work. 
